@@ -1,0 +1,211 @@
+
+
+
+
+
+button{
+
+float: inherit;
+padding-right: 80px;
+
+}
+
+.PageWhole{
+font-family: sans-serif;
+overflow: ;
+jbackground-color: brown;
+color:white;
+background-image: url(img/'bgk.png');
+background-size: cover;
+
+}
+
+.Absolutelywholepage{
+	overflow: ;
+	jbackground-color:;
+	border: 5px solid white;
+
+}
+
+.MakeStartPage{
+
+float: left;
+padding-bottom: 20px;
+
+}
+
+.titlemain{
+
+	padding-left: 25px;
+}
+
+ul{
+	padding: 0;
+}
+
+.floatmid{
+	text-align: center;
+margin: auto;
+float: ;
+width: 50%;
+padding: 10px;
+
+}
+
+.verinfo{
+position: absolute;
+right: 15px;
+padding: 15px;
+padding-top: 50px;
+width: 300px;
+}
+
+.RuImg{
+	position: absolute;
+	left: 15px;
+	padding: 10px;
+
+}
+
+.clickmenu{
+
+padding-top:0% ;
+padding-bottom:0% ;
+padding-left:300px ;
+padding-right:0% ;
+text-decoration: none;
+list-style: none;
+border-color: white;
+border: 3px s;
+padding:0%
+
+}
+
+.NyhetNRK{
+
+float: right;
+padding-right: 1100px;
+padding-bottom: 300px;
+
+}
+
+.menuitem{
+padding:0%;
+text-decoration: none;
+
+margin: auto;
+background-color: blue;
+width: 20%;
+text-decoration: none;
+list-style: none;
+text-align:center;
+padding-top: 1%;
+padding-bottom: 1%;
+padding-left: 0px;
+}
+3
+#ul{
+  padding: 0%;
+}
+
+.searchbarspec{
+
+padding-left: 75px;
+padding
+
+}
+
+.menuitem:hover{
+  background-color: white;
+  color: orange;
+}
+
+.HovedInnholdhvdside{
+color: white;
+  float: right;
+  text-align: center;
+	float: left;
+  width: 60%;
+  padding: 5px;
+}
+
+.BuildListe{
+float: left;
+	text-align: left;
+
+}
+
+.PhotoShopImage{
+	border-color: white;
+	border-width: 10px;
+	border-style: groove;
+	overflow: hidden;
+	padding-left: 20;
+		padding-right: 200;
+
+}
+
+a.menuitem{
+  text-decoration: none;
+}
+body {
+       color: orange; }
+    a {color: white; text-decoration: none;}
+    a:hover {text-decoration: none;}
+    a:hover {color: orange;}
+.CaseImg{
+
+float: right;
+	border-color: white;
+	border-width: 10px;
+	border-style: groove;
+	overflow: hidden;
+	float: left;
+
+}
+
+
+.row::after {
+  content: ;
+  clear: both;
+  display: table;
+}
+
+.MidAlign{
+float: right;
+padding-left: 0px;
+}
+
+.ArtButton{
+background-color: red;
+
+}
+
+.ArtButton:hover{
+background-color: red;
+color: red;
+border-style: groove;
+}
+
+.CurrencyCurrent{
+
+position: absolute;
+right: 50px;
+padding-left: 0px;
+padding: 15px;
+padding-top: px;
+background-color: blue;
+
+}
+
+.MenuMain{
+
+padding-left: 30px;
+}
+
+.tradingview-widget-container{
+
+
+
+
+}
